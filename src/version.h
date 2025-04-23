@@ -1,7 +1,7 @@
 custom_beacon_data_t versionData = {
     versionMajor : 1,
     versionMinor : 0,
-    versionBuild : 9
+    versionBuild : 11
 };
 
-String version_url = "https://exMpl."
+String version_url = "https://github.com/jonathan-annett/esp32_beacon_sync/releases/download/latest/config.json";
